@@ -1,0 +1,8 @@
+.MuiCardActions-root
+{
+    justify-content: center !important;
+}
+.MuiCardMedia-root
+{
+    background-size: contain !important;
+}
